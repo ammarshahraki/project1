@@ -6,3 +6,4 @@ person::print()
 	cout<< this->name << "\t" << this->age << endl;
 }
 
+
